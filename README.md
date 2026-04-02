@@ -92,21 +92,6 @@ The model achieves good performance in distinguishing fake and real news using T
 * Improve accuracy with better preprocessing
 
 
-## How to Run
-
-# Clone the repository
-git clone https://github.com/your-username/fake-news-detection.git
-
-# Navigate to project folder
-cd fake-news-detection
-
-# Install dependencies
-pip install -r requirements.txt
-
-# Run the project
-python main.py
-
-
 ##  Conclusion
 
 Fake news detection is an important application of Machine Learning that helps reduce misinformation and improve the reliability of online content.
